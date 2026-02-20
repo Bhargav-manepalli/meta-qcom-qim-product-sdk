@@ -1,4 +1,4 @@
-# Welcome to the Qualcomm Intelligent Multimedia SDK (QIM SDK)
+# Welcome to the Qualcomm Intelligent Multimedia SDK (QIM SDK) (IOT Image TEAM)
 
 In this documentation, you will learn:
 

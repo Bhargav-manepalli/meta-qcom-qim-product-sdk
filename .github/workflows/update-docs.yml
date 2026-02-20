@@ -3,7 +3,7 @@ name: Update Docs
 on:
   push:
     branches:
-      - scrathgap
+      - scarthgap
 
 jobs:
   update-docs:
